@@ -1,1 +1,2 @@
-
+add /disk_main/bb3/#Sonic.ar.00
+add /disk_main/bb3/#Sonic.arl
